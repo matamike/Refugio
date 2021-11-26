@@ -1,0 +1,10 @@
+﻿Hungry
+Thirsty
+Injured
+Malnutrition
+Ill
+Disabled
+Exhausted
+Feeble
+Mourning
+Distressed

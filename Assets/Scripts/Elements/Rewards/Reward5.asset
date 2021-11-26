@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df405122cff1fb34e9259bc3ff046a6c, type: 3}
+  m_Name: Reward5
+  m_EditorClassIdentifier: 
+  hasInitialized: 1
+  agreementMessage: Add 4 Men.
+  entitiesAmount: 4
+  entityType: 2
+  birthplace: 
+  profession: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 50656e80a6952e24492c81a49df8f87e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DIN 2014
+  fontNames:
+  - DIN 2014
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e0ca083f9eb1fe74a80f104b8ecbe173, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,38 @@
+Architect
+Baker
+Butcher
+Carpenter
+Cashier
+Cleaner
+Construction Worker
+Cook
+Criminal
+Dentist
+Dishwasher
+Doctor
+Driver
+Electrician
+Farmer
+Fire Fighter
+Fisher
+Florist
+Garbage Collector
+Hairdresser
+Industrial Worker
+Lawyer
+Mechanic
+Miner
+Nurse
+Office Clerk
+Painter
+Pharmacist
+Plumber
+Police Officer
+Politician
+Postal Worker
+Priest
+Prostitute
+Tailor
+Teacher
+Waiter
+Writer
